@@ -3,7 +3,7 @@ import './EmptyTodos.css';
 
 function EmptyTodos() {
   return (
-    <p>Error</p>
+    <p>Haz tu primer Todo!</p>
   );
 }
 
